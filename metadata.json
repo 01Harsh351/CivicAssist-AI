@@ -1,0 +1,6 @@
+{
+  "name": "CivicAssist AI",
+  "description": "Smart Public Service Navigator for Indian citizens to discover services, check eligibility, prepare documents, and navigate official government portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
