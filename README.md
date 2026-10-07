@@ -1,4 +1,4 @@
-# CivicAssist AI (सिविकअसिस्ट एआई)
+# CivicAssist AI 
 ### Smart Public Service Navigator for Indian Citizens
 
 > **Statutory Disclosure:** CivicAssist AI is an independent citizen-assistance platform. It is not an official government website or an official portal of the Government of India.
